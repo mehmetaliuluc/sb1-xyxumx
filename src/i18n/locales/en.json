@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "features": "Features",
+    "solution": "Solution",
+    "roadmap": "Roadmap",
+    "team": "Team",
+    "contact": "Contact", 
+    "signup": "Sign Up",
+    "launch": "Launch App"
+  },
+  "hero": {
+    "title": "Empowering Change Through Blockchain",
+    "subtitle": "AwarenessCoin (AWC) is a blockchain-based token created to raise awareness and drive action for critical social and environmental issues.",
+    "cta": {
+      "launch": "Launch App",
+      "learn": "Learn More"
+    }
+  },
+  "features": {
+    "title": "Key Features",
+    "subtitle": "Empowering change through innovative blockchain solutions"
+  }
+}
